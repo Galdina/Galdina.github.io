@@ -1,11 +1,11 @@
 # Site settings
 author: Maria Galdina
-title: 
+title: Data Science Bootcamp journey
 header-img: img/home-bg.png
 email: mari.galdina@gmail.com
 copyright_name: Maria Galdina
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What we can learn?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Galdina
