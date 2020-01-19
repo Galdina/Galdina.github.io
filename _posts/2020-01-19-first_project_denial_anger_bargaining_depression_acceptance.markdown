@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "First Project Denial, Anger, Bargaining, Depression, Acceptance"
+title:      "First Project: Denial, Anger, Bargaining, Depression, Acceptance"
 date:       2020-01-19 17:28:22 -0500
 permalink:  first_project_denial_anger_bargaining_depression_acceptance
 ---
@@ -17,7 +17,7 @@ Movie-related data from most popular sites looks better then I can get from this
 
 **Anger - It can’t be true!**
 
-First project - first problems. I realized how difficult it is for me to pick a nice, interesting topic to cover in the project. For closely look to data I used a sqlite3 library and converted files from *.cvs format to tables. When I inspected tables, I realized that all data sets from different sites contain good information, but they cannot be connected together. All tables have different key fields, empty values and should be converted to a specific type of data to work with them. Data cleaning makes my brains boil, but at this stage of project questions started to loom. I had seen, I can calculated averages for some columns and create easy plots. But questions for myself still haunt me and I cannot figure out main task for my research. Real anger come closer to me and repeated "Star Wars: Episode 4 - A New Hope” it is the same as “Star Wars: A New Hope (Episode 4)” and maybe few more variations. That means I lost a pice of information about budgets if I try to watch closely information about each movie. Only fast data converting gave me power to go forward. Budgets, dates, runtime and genres don’t gave me reason to look for another set of information. 
+First project - first problems. I realized how difficult it is for me to pick a nice, interesting topic to cover in the project. For closely look to data I used a sqlite3 library and converted files from .cvs format to tables. When I inspected tables, I realized that all data sets from different sites contain good information, but they cannot be connected together. All tables have different key fields, empty values and should be converted to a specific type of data to work with them. Data cleaning makes my brains boil, but at this stage of project questions started to loom. I had seen, I can calculated averages for some columns and create easy plots. But questions for myself still haunt me and I cannot figure out main task for my research. Real anger come closer to me and repeated "Star Wars: Episode 4 - A New Hope” it is the same as “Star Wars: A New Hope (Episode 4)” and maybe few more variations. That means I lost a pice of information about budgets if I try to watch closely information about each movie. Only fast data converting gave me power to go forward. Budgets, dates, runtime and genres don’t gave me reason to look for another set of information. 
 
 **Bargaining - Okey Google! **
 
