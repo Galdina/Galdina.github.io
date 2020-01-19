@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Project Denial, Anger, Bargaining, Depression, Acceptance"
-date:       2020-01-19 22:28:21 +0000
+date:       2020-01-19 17:28:22 -0500
 permalink:  first_project_denial_anger_bargaining_depression_acceptance
 ---
 
