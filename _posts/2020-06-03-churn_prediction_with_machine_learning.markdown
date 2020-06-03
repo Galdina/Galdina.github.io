@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Churn Prediction with Machine Learning"
-date:       2020-06-03 12:11:56 +0000
+date:       2020-06-03 08:11:58 -0400
 permalink:  churn_prediction_with_machine_learning
 ---
 
